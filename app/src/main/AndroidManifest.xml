@@ -15,12 +15,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".SRP.bad_way.BadSRPActivity"
+            android:label="Bad SRP" />
+        <activity
+            android:name=".SRP.good_way.GoodSRPActivity"
+            android:label="Good SRP" />
 
-        <activity android:name=".SRP.bad_way.BadActivity"
-            android:label="Bad SRP"/>
-        <activity android:name=".SRP.good_way.GoodActivity"
-            android:label="Good SRP"/>
-
+        <activity android:name=".OCP.bad_way.BadOCPActivity"
+            android:label="Bad OCP" />
+        <activity android:name=".OCP.good_way.GoodOCPActivity"
+            android:label="Good OCP" />
     </application>
 
 </manifest>
