@@ -22,9 +22,11 @@
             android:name=".SRP.good_way.GoodSRPActivity"
             android:label="Good SRP" />
 
-        <activity android:name=".OCP.bad_way.BadOCPActivity"
+        <activity
+            android:name=".OCP.bad_way.BadOCPActivity"
             android:label="Bad OCP" />
-        <activity android:name=".OCP.good_way.GoodOCPActivity"
+        <activity
+            android:name=".OCP.good_way.GoodOCPActivity"
             android:label="Good OCP" />
     </application>
 
