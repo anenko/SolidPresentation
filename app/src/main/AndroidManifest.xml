@@ -16,17 +16,17 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".SRP.bad_way.BadSRPActivity"
+            android:name=".SRP.violation.BadSRPActivity"
             android:label="Bad SRP" />
         <activity
-            android:name=".SRP.good_way.GoodSRPActivity"
+            android:name=".SRP.solution.GoodSRPActivity"
             android:label="Good SRP" />
 
         <activity
-            android:name=".OCP.bad_way.BadOCPActivity"
+            android:name=".OCP.violation.BadOCPActivity"
             android:label="Bad OCP" />
         <activity
-            android:name=".OCP.good_way.GoodOCPActivity"
+            android:name=".OCP.solution.GoodOCPActivity"
             android:label="Good OCP" />
     </application>
 

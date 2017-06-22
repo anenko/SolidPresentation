@@ -8,6 +8,6 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.alex.solidpresentation.OCP.good_way.GoodOCPActivity">
+    tools:context="com.alex.solidpresentation.OCP.solution.GoodOCPActivity">
 
 </RelativeLayout>
